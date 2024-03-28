@@ -27,6 +27,6 @@
     <h2>Example Output</h2>
     <img src="output.png" alt="ATM Output">
     
-  <h4>Congratulations on completing your ATM mini-project! 🎉 Keep exploring and learning as you continue your journey in Object-Oriented Programming (OOP). 🚀</h4>
+  <h4> Keep exploring and learning as you continue your journey in Object-Oriented Programming (OOP). 🚀</h4>
 </body>
 </html>
